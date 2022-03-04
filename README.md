@@ -45,7 +45,7 @@
    <ul>
      <li>SO: Windows 11</li>
      <li>CPU: Ryzen 7 2700 3.2 Ghz</li>
-     <li>GPU: Geforc GTX 1050TI 4 GB</li>
+     <li>GPU: Radeon RX 6600 XT 8GB</li>
      <li>Placa Mâe: MSI B450 Tomahawk Max II</li>
      <li>RAM: 16 GB Asgard</li>
      <li>SSD: Kingston 480 GB</li>
