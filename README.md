@@ -46,7 +46,7 @@
      <li>SO: Windows 11</li>
      <li>CPU: Ryzen 7 2700 3.2 Ghz</li>
      <li>GPU: Radeon RX 6600 XT 8GB</li>
-     <li>Placa Mâe: MSI B450 Tomahawk Max II</li>
+     <li>Placa Mãe: MSI B450 Tomahawk Max II</li>
      <li>RAM: 16 GB Asgard</li>
      <li>SSD: Kingston 480 GB</li>
      <li>HD: 1 TB Seagate</li>
