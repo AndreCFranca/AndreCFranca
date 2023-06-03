@@ -1,6 +1,6 @@
 <h1>Hello World!👋</h1> 
 
-<p>Me chamo Andre França e tenho atualmente 23 anos. Resolvi trocar o mundo da Engenharia Mecânica e embarcar no mundo da Tecnologia da Informação e a cada dia me surpreendo positivamente com a infinidade de conteúdos que tenho a oportunidade de aprender. Me apaixonei por programação e venho desenvolvendo cada vez mais minhas habilidades na área de <b>Desenvolvimento Front-End.</b></p>
+<p>Me chamo Andre França e tenho atualmente 23 anos. Resolvi trocar o mundo da Engenharia Mecânica e embarcar no mundo da Tecnologia da Informação e a cada dia me surpreendo positivamente com a infinidade de conteúdos que tenho a oportunidade de aprender. Me apaixonei por programação e venho desenvolvendo cada vez mais minhas habilidades na área de <b>Desenvolvimento de Software</b></p>
 
 <h3>No presente momento possuo conhecimento nas stacks:</h3>
   
