@@ -44,7 +44,7 @@
   
    <ul>
      <li>SO: Windows 11</li>
-     <li>CPU: Ryzen 7 2700 3.2 Ghz</li>
+     <li>CPU: Ryzen 5 5600X 3.8 Ghz</li>
      <li>GPU: Radeon RX 6600 XT 8GB</li>
      <li>Placa Mãe: MSI B450 Tomahawk Max II</li>
      <li>RAM: 16 GB Asgard</li>
